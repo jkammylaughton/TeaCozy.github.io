@@ -8,6 +8,7 @@ body {
 .top-bar {
   border-bottom: 1px solid seashell; 
   display: flex;
+  height: 69px;
 }
 
 .nav-bar {
