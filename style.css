@@ -10,13 +10,14 @@ header {
   display: flex;
   height: 69px;
   border-bottom: 1px solid seashell;
-  justify-content: felx-end;
-}
+  }
 
 .nav-bar {
   text-decoration: underline;
   text-align: right;
 }
+
+.image
 
 
 
