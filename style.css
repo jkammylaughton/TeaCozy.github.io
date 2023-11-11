@@ -9,6 +9,7 @@ header {
   position: fixed;
   display: flex;
   height: 69px;
+  width: 100%;
   border-bottom: 1px solid seashell;
   }
 
