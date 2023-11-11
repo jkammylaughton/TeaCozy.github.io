@@ -2,4 +2,9 @@ body {
   font-family: helvetica;
   font-size: 22px;
   background-color: black;
+  color: seashell;
+}
+
+.top-bar {
+  border-bottom: 1px solid seashell; 
 }
