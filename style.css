@@ -7,10 +7,12 @@ body {
 
 .top-bar {
   border-bottom: 1px solid seashell; 
+  display: flex;
 }
 
 .nav-bar {
   text-decoration: underline;
+  
 }
 
 
