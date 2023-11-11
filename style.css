@@ -10,6 +10,7 @@ body {
   display: flex;
   height: 69px;
   border-bottom: 1px solid seashell;
+  justify-content: space-between;
 }
 
 .nav-bar {
