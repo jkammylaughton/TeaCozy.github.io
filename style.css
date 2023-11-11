@@ -8,3 +8,10 @@ body {
 .top-bar {
   border-bottom: 1px solid seashell; 
 }
+
+.nav-bar {
+  text-decoration: underline;
+}
+
+
+
