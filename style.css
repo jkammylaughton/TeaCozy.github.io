@@ -5,7 +5,7 @@ body {
   color: seashell;
 }
 
-.top-bar {
+header {
   position: fixed;
   display: flex;
   height: 69px;
